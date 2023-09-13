@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍🎓 I'm a student in Murdoch University Dubai<br>🤖 I'm currently working on Telegram bots for organisations<br>💻 I'm passionate about coding<br>🐍 Ask me about Python<br>⚒️ Let's build something cool
+👨🏻‍💻 I'm a CS student in HSE<br>
+👨‍🎓 I'm a CS student in Murdoch University Dubai<br>🤖 I'm currently working on Telegram bots for organisations<br>💻 I'm passionate about coding<br>🐍 Ask me about Python<br>⚒️ Let's build something cool
 
 
 ## 🌐 Socials:
